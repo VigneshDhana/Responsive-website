@@ -1,0 +1,45 @@
+.mobile .header{
+    padding-top: 10%;
+    border-radius: 10px 10px 0px 0px;
+}
+.mobile .topbar {
+    position: relative;
+    top: 30%;
+    left: 8%;
+    height: 40%;
+    width: 35%;
+    border-radius: 5px;
+    opacity: 1;
+}
+.mobile .menu {
+    top: 28%;
+    left: 48%;
+    height: 65%;
+    width: 8%;
+}
+.mobile .menubar {
+    height: 12%;
+    margin-bottom: 15%;
+}
+.mobile .section{
+    border-radius: 0 0 10px 10px;
+    padding: 5%;
+}
+.mobile .info{
+    height: 16%;
+}
+.mobile .infosection{
+    top: 5%;
+    padding: 5% 0 15% 0;
+}
+.mobile .lines{
+    width: 80%;
+}
+.mobile .line {
+    margin-bottom: 2%;
+    border: 1px solid #E3E8EC;
+}
+.mobile .title-line{
+    width: 30%;
+    border-radius: 3px 3px 0 0;
+}
